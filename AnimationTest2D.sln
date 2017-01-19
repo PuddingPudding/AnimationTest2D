@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationTest2D.Plugins", "AnimationTest2D.Plugins.csproj", "{9994BC67-4FC6-D722-AE21-A490E5F54963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationTest2D", "AnimationTest2D.csproj", "{8994D2D5-3018-3052-C5D0-F79D0ACD9340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationTest2D.Editor.Plugins", "AnimationTest2D.Editor.Plugins.csproj", "{9C28C490-8AAC-6EE7-E160-531902E13425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9994BC67-4FC6-D722-AE21-A490E5F54963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9994BC67-4FC6-D722-AE21-A490E5F54963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9994BC67-4FC6-D722-AE21-A490E5F54963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9994BC67-4FC6-D722-AE21-A490E5F54963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8994D2D5-3018-3052-C5D0-F79D0ACD9340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8994D2D5-3018-3052-C5D0-F79D0ACD9340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8994D2D5-3018-3052-C5D0-F79D0ACD9340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8994D2D5-3018-3052-C5D0-F79D0ACD9340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C28C490-8AAC-6EE7-E160-531902E13425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C28C490-8AAC-6EE7-E160-531902E13425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C28C490-8AAC-6EE7-E160-531902E13425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C28C490-8AAC-6EE7-E160-531902E13425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
