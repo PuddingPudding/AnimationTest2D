@@ -85,7 +85,9 @@
     <Compile Include="Assets\Commander\CommanderKeen.cs" />
     <Compile Include="Assets\RockMan\RockMan_Controller.cs" />
     <Compile Include="Assets\Tower\Diffusion.cs" />
+    <Compile Include="Assets\Tower\MoveToTower.cs" />
     <Compile Include="Assets\Tower\TowerControll.cs" />
+    <Compile Include="Assets\Tower\Unit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
