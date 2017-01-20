@@ -84,6 +84,8 @@
     <Compile Include="Assets\2DSkeletone\Scripts\IronMan_Controller.cs" />
     <Compile Include="Assets\Commander\CommanderKeen.cs" />
     <Compile Include="Assets\RockMan\RockMan_Controller.cs" />
+    <Compile Include="Assets\Tower\Diffusion.cs" />
+    <Compile Include="Assets\Tower\TowerControll.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
