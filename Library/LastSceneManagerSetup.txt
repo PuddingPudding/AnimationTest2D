@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/towerPrototype.unity
+- path: Assets/Scene/movementTry.unity
   isLoaded: 1
   isActive: 1
